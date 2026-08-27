@@ -1,0 +1,6 @@
+{
+  "name": "Dooars Daily Basket",
+  "description": "Customer ordering and live tracking app for fresh grocery, tea, fish, meat, dairy & essentials in Dooars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
